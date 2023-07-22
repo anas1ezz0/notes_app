@@ -183,8 +183,7 @@ status: statusController.text
 
 
       ),
-      bottomNavigationBar:
-      BottomNavigationBar(
+      bottomNavigationBar: BottomNavigationBar(
           type: BottomNavigationBarType.fixed,
           currentIndex: currentIndex,
           onTap: (index) {

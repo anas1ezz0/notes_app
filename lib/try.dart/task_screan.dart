@@ -70,7 +70,7 @@ class TaskScrean extends StatelessWidget {
                   ),
                 ),child:
                  TasksList()
-              ),    
+              ),
             ),
           ],
         ),

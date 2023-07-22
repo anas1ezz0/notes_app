@@ -6,7 +6,7 @@ import 'package:hexcolor/hexcolor.dart';
 import 'colors.dart';
 
 
-ThemeData themeModedark =  ThemeData(
+ThemeData themeModeDark =  ThemeData(
                scaffoldBackgroundColor:HexColor('333739'),
                primarySwatch: defaultColor,   
                appBarTheme: AppBarTheme(
@@ -41,7 +41,7 @@ ThemeData themeModedark =  ThemeData(
               ) )
 
               ) ;
-ThemeData themeModelight =  ThemeData(
+ThemeData themeModeLight =  ThemeData(
                 primarySwatch:defaultColor,
              
                scaffoldBackgroundColor: Colors.white,

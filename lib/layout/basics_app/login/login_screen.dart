@@ -5,13 +5,7 @@ import 'package:flutter/material.dart';
 
 import '../../../shared/components/components.dart';
 
-
-
 class LoginScreen extends StatelessWidget {
-
-
-
-
 
    var formKey =  GlobalKey<FormState>();
 

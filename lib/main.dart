@@ -2,11 +2,12 @@
 import 'package:app/layout/shop_app/shop_layout/shop_layout_screan.dart';
 import 'package:app/shared/bloc_observer.dart';
 import 'package:app/shared/network/remote/dio_helper.dart';
+import 'package:app/try.dart/task_screan.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'layout/news_app/cubit/cubit.dart';
-import 'layout/news_app/news_layout.dart';
+
 import 'layout/shop_app/cubit/cubit.dart';
 import 'layout/shop_app/onBoarding/onBoarding_screen.dart';
 import 'layout/shop_app/shop_login/shop_login_screen.dart';
@@ -76,10 +77,10 @@ class MyApp extends StatelessWidget
         builder: (context, state) {
           return MaterialApp(
             debugShowCheckedModeBanner: false,
-            theme:themeModelight,
-            darkTheme: themeModedark,
+            theme:themeModeLight,
+            darkTheme: themeModeDark,
             themeMode:AppCubit.get(context).isDark?ThemeMode.light:ThemeMode.light,
-            home:NewsLayout()
+            home:TaskScrean()
           );
         },
       ),
