@@ -7,5 +7,5 @@ This app works totally offline so no worries about data leaks or something.
 
 # Screen Shots
 
-![mainScrean](https://github.com/anas1ezz0/notes_app/assets/115151453/e9eca62b-b3ca-45ac-8db7-7c1f32c77d43)
-Main Screen
+Main Screen ![mainScrean](https://github.com/anas1ezz0/notes_app/assets/115151453/e9eca62b-b3ca-45ac-8db7-7c1f32c77d43)
+
