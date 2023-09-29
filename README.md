@@ -10,6 +10,10 @@ Main Screen
 
 ![mainScrean](https://github.com/anas1ezz0/notes_app/assets/115151453/e9eca62b-b3ca-45ac-8db7-7c1f32c77d43)
 
-AddTask Screan
+Menu Screen
 
 ![menu](https://github.com/anas1ezz0/notes_app/assets/115151453/8de33800-b9e8-4e5b-af82-f51637ccb2c5)
+
+AddTask Screen
+
+![addTask](https://github.com/anas1ezz0/notes_app/assets/115151453/69c1ba72-2ca3-4cd1-89c0-ed850fdeb612)
