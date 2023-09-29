@@ -9,3 +9,7 @@ This app works totally offline so no worries about data leaks or something.
 Main Screen
 
 ![mainScrean](https://github.com/anas1ezz0/notes_app/assets/115151453/e9eca62b-b3ca-45ac-8db7-7c1f32c77d43)
+
+AddTask Screan
+
+![menu](https://github.com/anas1ezz0/notes_app/assets/115151453/8de33800-b9e8-4e5b-af82-f51637ccb2c5)
